@@ -1,1 +1,1 @@
-# super-octo-guide
+# bitcoin white paper
