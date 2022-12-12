@@ -1,1 +1,0 @@
-# bitcoin white paper
